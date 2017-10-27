@@ -1,0 +1,418 @@
+,name,group,ndbno
+0,"Egg, duck, whole, fresh, raw",Dairy and Egg Products,01138
+1,"Egg, goose, whole, fresh, raw",Dairy and Egg Products,01139
+2,"Egg, quail, whole, fresh, raw",Dairy and Egg Products,01140
+3,"Egg, turkey, whole, fresh, raw",Dairy and Egg Products,01141
+4,"Egg, white, raw, fresh",Dairy and Egg Products,01124
+5,"Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,01172
+6,"Egg, whole, raw, fresh",Dairy and Egg Products,01123
+7,"Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,01171
+8,"Egg, whole, raw, frozen, salted, pasteurized",Dairy and Egg Products,01255
+9,"Egg, yolk, raw, fresh",Dairy and Egg Products,01125
+10,"Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,01126
+11,"Egg, yolk, raw, frozen, salted, pasteurized",Dairy and Egg Products,01160
+12,"Egg, yolk, raw, frozen, sugared, pasteurized",Dairy and Egg Products,01127
+13,"Beans, snap, green, raw",Vegetables and Vegetable Products,11052
+14,"Beet greens, raw",Vegetables and Vegetable Products,11086
+15,"Cauliflower, green, raw",Vegetables and Vegetable Products,11965
+16,"Chicory greens, raw",Vegetables and Vegetable Products,11152
+17,"Corn with red and green peppers, canned, solids and liquids",Vegetables and Vegetable Products,11184
+18,"Dandelion greens, raw",Vegetables and Vegetable Products,11207
+19,"Grapes, red or green (European type, such as Thompson seedless), raw",Fruits and Fruit Juices,09132
+20,"Kiwifruit, green, raw",Fruits and Fruit Juices,09148
+21,"Lettuce, green leaf, raw",Vegetables and Vegetable Products,11253
+22,"Mustard greens, raw",Vegetables and Vegetable Products,11270
+23,"Pears, raw, green anjou",Fruits and Fruit Juices,09415
+24,"Peas, green, raw",Vegetables and Vegetable Products,11304
+25,"Peas, green, split, mature seeds, raw",Legumes and Legume Products,16085
+26,"Pepper, banana, raw",Vegetables and Vegetable Products,11976
+27,"Peppers, chili, green, canned",Vegetables and Vegetable Products,11980
+28,"Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids",Vegetables and Vegetable Products,11329
+29,"Peppers, hot chili, green, raw",Vegetables and Vegetable Products,11670
+30,"Peppers, hot chili, red, raw",Vegetables and Vegetable Products,11819
+31,"Peppers, hungarian, raw",Vegetables and Vegetable Products,11981
+32,"Peppers, jalapeno, raw",Vegetables and Vegetable Products,11979
+33,"Peppers, serrano, raw",Vegetables and Vegetable Products,11977
+34,"Peppers, sweet, green, canned, solids and liquids",Vegetables and Vegetable Products,11335
+35,"Peppers, sweet, green, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11334
+36,"Peppers, sweet, green, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11822
+37,"Peppers, sweet, green, freeze-dried",Vegetables and Vegetable Products,11634
+38,"Peppers, sweet, green, frozen, chopped, boiled, drained, without salt",Vegetables and Vegetable Products,11338
+39,"Peppers, sweet, green, frozen, chopped, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11825
+40,"Peppers, sweet, green, frozen, chopped, unprepared",Vegetables and Vegetable Products,11337
+41,"Peppers, sweet, green, raw",Vegetables and Vegetable Products,11333
+42,"Peppers, sweet, green, sauteed",Vegetables and Vegetable Products,11339
+43,"Peppers, sweet, red, raw",Vegetables and Vegetable Products,11821
+44,"Peppers, sweet, yellow, raw",Vegetables and Vegetable Products,11951
+45,"Soybeans, green, raw",Vegetables and Vegetable Products,11450
+46,"Tomatoes, green, raw",Vegetables and Vegetable Products,11527
+47,"Tomato products, canned, sauce, with onions, green peppers, and celery",Vegetables and Vegetable Products,11557
+48,"Turnip greens, raw",Vegetables and Vegetable Products,11568
+59,"Peas, edible-podded, raw",Vegetables and Vegetable Products,11300
+60,"Peas, green, canned, drained solids, rinsed in tap water",Vegetables and Vegetable Products,11311
+61,"Peas, green, canned, no salt added, drained solids",Vegetables and Vegetable Products,11813
+62,"Peas, green, canned, no salt added, solids and liquids",Vegetables and Vegetable Products,11812
+63,"Peas, green, canned, regular pack, solids and liquids",Vegetables and Vegetable Products,11306
+64,"Peas, green, canned, seasoned, solids and liquids",Vegetables and Vegetable Products,11310
+65,"Peas, green, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11305
+66,"Peas, green, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11811
+67,"Peas, green, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11313
+68,"Peas, green, frozen, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11814
+69,"Peas, green, frozen, unprepared",Vegetables and Vegetable Products,11312
+70,"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared",Vegetables and Vegetable Products,11308
+73,"Peas, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11316
+76,"Pigeon peas (red gram), mature seeds, raw",Legumes and Legume Products,16101
+80,"Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added",Vegetables and Vegetable Products,43312
+81,"Carrots, baby, raw",Vegetables and Vegetable Products,11960
+82,"Carrots, raw",Vegetables and Vegetable Products,11124
+83,"Broccoli, chinese, raw",Vegetables and Vegetable Products,11994
+84,"Broccoli, flower clusters, raw",Vegetables and Vegetable Products,11740
+85,"Broccoli, leaves, raw",Vegetables and Vegetable Products,11739
+86,"Broccoli raab, raw",Vegetables and Vegetable Products,11096
+87,"Broccoli, raw",Vegetables and Vegetable Products,11090
+88,"Broccoli, stalks, raw",Vegetables and Vegetable Products,11741
+90,"Cauliflower, raw",Vegetables and Vegetable Products,11135
+91,"Corn, sweet, white, raw",Vegetables and Vegetable Products,11900
+92,"Corn, sweet, yellow, raw",Vegetables and Vegetable Products,11167
+93,"Succotash, (corn and limas), raw",Vegetables and Vegetable Products,11495
+94,"Mustard spinach, (tendergreen), raw",Vegetables and Vegetable Products,11274
+95,"New Zealand spinach, raw",Vegetables and Vegetable Products,11276
+96,"Spinach, raw",Vegetables and Vegetable Products,11457
+98,"Tomatoes, orange, raw",Vegetables and Vegetable Products,11695
+99,"Tomatoes, red, ripe, raw, year round average",Vegetables and Vegetable Products,11529
+100,"Tomatoes, yellow, raw",Vegetables and Vegetable Products,11696
+101,"Cherries, sweet, raw",Fruits and Fruit Juices,09070
+104,"Onions, raw",Vegetables and Vegetable Products,11282
+105,"Onions, spring or scallions (includes tops and bulb), raw",Vegetables and Vegetable Products,11291
+106,"Onions, sweet, raw",Vegetables and Vegetable Products,11294
+107,"Onions, welsh, raw",Vegetables and Vegetable Products,11293
+111,"Pickles, chowchow, with cauliflower onion mustard, sweet",Vegetables and Vegetable Products,11983
+112,"Pineapple, raw, extra sweet variety",Fruits and Fruit Juices,09430
+113,"Sweet potato leaves, raw",Vegetables and Vegetable Products,11505
+114,"Sweet potato, raw, unprepared",Vegetables and Vegetable Products,11507
+115,"Cucumber, peeled, raw",Vegetables and Vegetable Products,11206
+116,"Cucumber, with peel, raw",Vegetables and Vegetable Products,11205
+117,"Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,11937
+118,"Pickles, cucumber, dill, reduced sodium",Vegetables and Vegetable Products,11947
+119,"Pickles, cucumber, sour",Vegetables and Vegetable Products,11941
+120,"Pickles, cucumber, sour, low sodium",Vegetables and Vegetable Products,11946
+121,"Pickles, cucumber, sweet (includes bread and butter pickles)",Vegetables and Vegetable Products,11940
+122,"Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)",Vegetables and Vegetable Products,11948
+123,"Beverages, almond milk, chocolate, ready-to-drink",Beverages,14054
+124,"Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink",Beverages,14016
+125,"Beverages, almond milk, unsweetened, shelf stable",Beverages,14091
+126,"Beverages, Carob-flavor beverage mix, powder, prepared with whole milk",Beverages,14169
+127,"Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E",Beverages,14092
+128,"Beverages, chocolate drink, milk and soy based, ready to drink, fortified",Beverages,14163
+129,"Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients",Beverages,14557
+130,"Beverages, chocolate-flavor beverage mix for milk, powder, with added nutrients, prepared with whole milk",Beverages,14558
+131,"Beverages, chocolate-flavor beverage mix, powder, prepared with whole milk",Beverages,14177
+132,"Beverages, Chocolate-flavored drink, whey and milk based",Beverages,43369
+133,"Beverages, chocolate malt, powder, prepared with fat free milk",Beverages,14083
+134,"Beverages, chocolate malt powder, prepared with 1% milk, fortified",Beverages,14164
+135,"Beverages, chocolate syrup, prepared with whole milk",Beverages,14182
+136,"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",Beverages,14171
+137,"Beverages, coffee, ready to drink, iced, mocha, milk based",Beverages,14183
+138,"Beverages, coffee, ready to drink, milk based, sweetened",Beverages,14179
+139,"Beverages, coffee, ready to drink, vanilla, light, milk based, sweetened",Beverages,14173
+140,"Beverages, coffee substitute, cereal grain beverage, powder, prepared with whole milk",Beverages,14421
+141,"Beverages, CYTOSPORT, Muscle Milk, ready-to-drink",Beverages,14036
+142,"Beverages, Eggnog-flavor mix, powder, prepared with whole milk",Beverages,14245
+143,"Beverages, Malted drink mix, chocolate, powder, prepared with whole milk",Beverages,14318
+144,"Beverages, Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk",Beverages,14316
+145,"Beverages, Malted drink mix, natural, powder, prepared with whole milk",Beverages,14312
+146,"Beverages, Malted drink mix, natural, with added nutrients, powder, prepared with whole milk",Beverages,14310
+147,"Beverages, milk beverage, reduced fat, flavored and sweetened, Ready-to-drink,  added calcium, vitamin A and vitamin D",Beverages,14634
+148,"Beverages, rice milk, unsweetened",Beverages,14639
+149,"Beverages, Strawberry-flavor beverage mix, powder, prepared with whole milk",Beverages,14351
+150,"Cheese, mozzarella, part skim milk",Dairy and Egg Products,01028
+151,"Cheese, mozzarella, whole milk",Dairy and Egg Products,01026
+152,"Cheese, mozzarella, whole milk, low moisture",Dairy and Egg Products,01027
+153,"Cheese, ricotta, part skim milk",Dairy and Egg Products,01037
+154,"Cheese, ricotta, whole milk",Dairy and Egg Products,01036
+155,"Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk",Dairy and Egg Products,01071
+156,"Milk, buttermilk, dried",Dairy and Egg Products,01094
+157,"Milk, buttermilk, fluid, cultured, lowfat",Dairy and Egg Products,01088
+158,"Milk, buttermilk, fluid, cultured, reduced fat",Dairy and Egg Products,42189
+159,"Milk, buttermilk, fluid, whole",Dairy and Egg Products,01230
+160,"Milk, canned, condensed, sweetened",Dairy and Egg Products,01095
+161,"Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D",Dairy and Egg Products,01097
+162,"Milk, canned, evaporated, with added vitamin A",Dairy and Egg Products,01153
+163,"Milk, canned, evaporated, with added vitamin D and without added vitamin A",Dairy and Egg Products,01096
+164,"Milk, canned, evaporated, without added vitamin A and vitamin D",Dairy and Egg Products,01214
+165,"Milk, chocolate beverage, hot cocoa, homemade",Dairy and Egg Products,01105
+166,"Milk, chocolate, fat free, with added vitamin A and vitamin D",Dairy and Egg Products,01292
+167,"Milk, chocolate, fluid, commercial, reduced fat, with added calcium",Dairy and Egg Products,01202
+168,"Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D",Dairy and Egg Products,01103
+169,"Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D",Dairy and Egg Products,01102
+170,"Milk, chocolate, lowfat, reduced sugar",Dairy and Egg Products,01305
+171,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",Dairy and Egg Products,01104
+172,"Milk dessert bar, frozen, made from lowfat milk",Dairy and Egg Products,01244
+173,"Milk, dry, nonfat, calcium reduced",Dairy and Egg Products,01093
+174,"Milk, dry, nonfat, instant, with added vitamin A and vitamin D",Dairy and Egg Products,01092
+175,"Milk, dry, nonfat, instant, without added vitamin A and vitamin D",Dairy and Egg Products,01155
+176,"Milk, dry, nonfat, regular, with added vitamin A and vitamin D",Dairy and Egg Products,01154
+177,"Milk, dry, nonfat, regular, without added vitamin A and vitamin D",Dairy and Egg Products,01091
+178,"Milk, dry, whole, with added vitamin D",Dairy and Egg Products,01090
+179,"Milk, dry, whole, without added vitamin D",Dairy and Egg Products,01212
+180,"Milk, evaporated, 2% fat, with added vitamin A and vitamin D",Dairy and Egg Products,01291
+181,"Milk, filled, fluid, with blend of hydrogenated vegetable oils",Dairy and Egg Products,01059
+182,"Milk, filled, fluid, with lauric acid oil",Dairy and Egg Products,01060
+183,"Milk, fluid, 1% fat, without added vitamin A and vitamin D",Dairy and Egg Products,01175
+184,"Milk, fluid, nonfat, calcium fortified (fat free or skim)",Dairy and Egg Products,42290
+185,"Milk, goat, fluid, with added vitamin D",Dairy and Egg Products,01106
+186,"Milk, human, mature, fluid",Dairy and Egg Products,01107
+187,"Milk, imitation, non-soy",Dairy and Egg Products,43543
+188,"Milk, indian buffalo, fluid",Dairy and Egg Products,01108
+189,"Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D",Dairy and Egg Products,01084
+190,"Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D",Dairy and Egg Products,01083
+191,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,01082
+192,"Milk, low sodium, fluid",Dairy and Egg Products,01089
+193,"Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)",Dairy and Egg Products,01087
+194,"Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,01086
+195,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,01085
+196,"Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,01151
+197,"Milk, producer, fluid, 3.7% milkfat",Dairy and Egg Products,01078
+198,"Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D",Dairy and Egg Products,01081
+199,"Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D",Dairy and Egg Products,01080
+200,"Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A",Dairy and Egg Products,01152
+201,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,01079
+202,"Milk, reduced fat, fluid, 2% milkfat, without added vitamin A and vitamin D",Dairy and Egg Products,01174
+203,"Milk shakes, thick chocolate",Dairy and Egg Products,01110
+204,"Milk shakes, thick vanilla",Dairy and Egg Products,01111
+205,"Milk, sheep, fluid",Dairy and Egg Products,01109
+206,"Milk substitutes, fluid, with lauric acid oil",Dairy and Egg Products,01076
+207,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,01077
+208,"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",Dairy and Egg Products,01211
+209,"Nuts, coconut milk, canned (liquid expressed from grated meat and water)",Nut and Seed Products,12118
+210,"Nuts, coconut milk, frozen (liquid expressed from grated meat and water)",Nut and Seed Products,12176
+211,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",Nut and Seed Products,12117
+212,"Potatoes, au gratin, dry mix, prepared with water, whole milk and butter",Vegetables and Vegetable Products,11385
+213,"Potatoes, mashed, dehydrated, flakes without milk, dry form",Vegetables and Vegetable Products,11378
+214,"Potatoes, mashed, dehydrated, granules with milk, dry form",Vegetables and Vegetable Products,11382
+215,"Potatoes, mashed, dehydrated, granules without milk, dry form",Vegetables and Vegetable Products,11380
+216,"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",Vegetables and Vegetable Products,11379
+217,"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and margarine added",Vegetables and Vegetable Products,11930
+218,"Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added",Vegetables and Vegetable Products,11383
+219,"Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added",Vegetables and Vegetable Products,11381
+220,"Seeds, chia seeds, dried",Nut and Seed Products,12006
+225,"Nuts, almond butter, plain, without salt added",Nut and Seed Products,12195
+226,"Nuts, almond butter, plain, with salt added",Nut and Seed Products,12695
+227,"Nuts, almond paste",Nut and Seed Products,12071
+228,"Nuts, almonds",Nut and Seed Products,12061
+229,"Nuts, almonds, blanched",Nut and Seed Products,12062
+230,"Nuts, almonds, dry roasted, without salt added",Nut and Seed Products,12063
+231,"Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,12563
+232,"Nuts, almonds, honey roasted, unblanched",Nut and Seed Products,12206
+233,"Nuts, almonds, oil roasted, lightly salted",Nut and Seed Products,12665
+234,"Nuts, almonds, oil roasted, without salt added",Nut and Seed Products,12065
+235,"Nuts, almonds, oil roasted, with salt added",Nut and Seed Products,12565
+236,"Nuts, almonds, oil roasted, with salt added, smoke flavor",Nut and Seed Products,12567
+237,"Seeds, pumpkin and squash seed kernels, dried",Nut and Seed Products,12014
+238,"Seeds, pumpkin and squash seed kernels, roasted, without salt",Nut and Seed Products,12016
+239,"Seeds, pumpkin and squash seed kernels, roasted, with salt added",Nut and Seed Products,12516
+240,"Seeds, pumpkin and squash seeds, whole, roasted, without salt",Nut and Seed Products,12163
+241,"Seeds, pumpkin and squash seeds, whole, roasted, with salt added",Nut and Seed Products,12663
+242,"Seeds, sunflower seed butter, without salt",Nut and Seed Products,12040
+243,"Seeds, sunflower seed butter, with salt added",Nut and Seed Products,12540
+244,"Seeds, sunflower seed flour, partially defatted",Nut and Seed Products,12041
+245,"Seeds, sunflower seed kernels, dried",Nut and Seed Products,12036
+246,"Seeds, sunflower seed kernels, dry roasted, without salt",Nut and Seed Products,12037
+247,"Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,12537
+248,"Seeds, sunflower seed kernels from shell, dry roasted, with salt added",Nut and Seed Products,12536
+249,"Seeds, sunflower seed kernels, oil roasted, without salt",Nut and Seed Products,12038
+250,"Seeds, sunflower seed kernels, oil roasted, with salt added",Nut and Seed Products,12538
+251,"Seeds, sunflower seed kernels, toasted, without salt",Nut and Seed Products,12039
+252,"Seeds, sunflower seed kernels, toasted, with salt added",Nut and Seed Products,12539
+253,"Beverages, Meal supplement drink, canned, peanut flavor",Beverages,14632
+254,"Ice cream, lowfat, no sugar added, cone, added peanuts and chocolate sauce",Dairy and Egg Products,01306
+255,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER",Nut and Seed Products,12141
+256,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend",Nut and Seed Products,12136
+257,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",Nut and Seed Products,12135
+258,"Nuts, mixed nuts, dry roasted, with peanuts, with salt added",Nut and Seed Products,12635
+259,"Nuts, mixed nuts, oil roasted, without peanuts, lightly salted",Nut and Seed Products,12738
+260,"Nuts, mixed nuts, oil roasted, without peanuts, without salt added",Nut and Seed Products,12138
+261,"Nuts, mixed nuts, oil roasted, without peanuts, with salt added",Nut and Seed Products,12638
+262,"Nuts, mixed nuts, oil roasted, with peanuts, lightly salted",Nut and Seed Products,12737
+263,"Nuts, mixed nuts, oil roasted, with peanuts, without salt added",Nut and Seed Products,12137
+264,"Nuts, mixed nuts, oil roasted, with peanuts, with salt added",Nut and Seed Products,12637
+265,"Peanut butter, chunk style, without salt",Legumes and Legume Products,16397
+266,"Peanut butter, chunk style, with salt",Legumes and Legume Products,16097
+267,"Peanut butter, chunky, vitamin and mineral fortified",Legumes and Legume Products,16156
+268,"Peanut butter, reduced sodium",Legumes and Legume Products,42291
+269,"Peanut butter, smooth, reduced fat",Legumes and Legume Products,16150
+270,"Peanut butter, smooth style, without salt",Legumes and Legume Products,16398
+271,"Peanut butter, smooth style, with salt",Legumes and Legume Products,16098
+272,"Peanut butter, smooth, vitamin and mineral fortified",Legumes and Legume Products,16155
+273,"Peanut butter with omega-3, creamy",Legumes and Legume Products,16399
+274,"Peanut flour, defatted",Legumes and Legume Products,16099
+275,"Peanut flour, low fat",Legumes and Legume Products,16100
+276,"Peanuts, all types, cooked, boiled, with salt",Legumes and Legume Products,16088
+277,"Peanuts, all types, dry-roasted, without salt",Legumes and Legume Products,16390
+278,"Peanuts, all types, dry-roasted, with salt",Legumes and Legume Products,16090
+279,"Peanuts, all types, oil-roasted, without salt",Legumes and Legume Products,16389
+280,"Peanuts, all types, oil-roasted, with salt",Legumes and Legume Products,16089
+281,"Peanuts, all types, raw",Legumes and Legume Products,16087
+282,"Peanut spread, reduced sugar",Legumes and Legume Products,16149
+283,"Peanuts, spanish, oil-roasted, without salt",Legumes and Legume Products,16392
+284,"Peanuts, spanish, oil-roasted, with salt",Legumes and Legume Products,16092
+285,"Peanuts, spanish, raw",Legumes and Legume Products,16091
+286,"Peanuts, valencia, oil-roasted, without salt",Legumes and Legume Products,16394
+287,"Peanuts, valencia, oil-roasted, with salt",Legumes and Legume Products,16094
+288,"Peanuts, valencia, raw",Legumes and Legume Products,16093
+289,"Peanuts, virginia, oil-roasted, without salt",Legumes and Legume Products,16396
+290,"Peanuts, virginia, oil-roasted, with salt",Legumes and Legume Products,16096
+291,"Peanuts, virginia, raw",Legumes and Legume Products,16095
+292,"USDA Commodity, Peanut Butter, smooth",Legumes and Legume Products,16167
+293,"Nuts, cashew butter, plain, without salt added",Nut and Seed Products,12088
+294,"Nuts, cashew butter, plain, with salt added",Nut and Seed Products,12588
+295,"Nuts, cashew nuts, dry roasted, without salt added",Nut and Seed Products,12085
+296,"Nuts, cashew nuts, dry roasted, with salt added",Nut and Seed Products,12585
+297,"Nuts, cashew nuts, oil roasted, without salt added",Nut and Seed Products,12086
+298,"Nuts, cashew nuts, oil roasted, with salt added",Nut and Seed Products,12586
+299,"Nuts, cashew nuts, raw",Nut and Seed Products,12087
+300,"Nuts, walnuts, black, dried",Nut and Seed Products,12154
+301,"Nuts, walnuts, dry roasted, with salt added",Nut and Seed Products,12157
+302,"Nuts, walnuts, english",Nut and Seed Products,12155
+303,"Nuts, walnuts, glazed",Nut and Seed Products,12156
+304,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",Legumes and Legume Products,16056
+305,"Mung beans, mature seeds, raw",Legumes and Legume Products,16080
+306,"Mung beans, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11043
+307,"Beans, adzuki, mature seeds, raw",Legumes and Legume Products,16001
+308,"Beans, black, mature seeds, raw",Legumes and Legume Products,16014
+309,"Beans, black turtle, mature seeds, raw",Legumes and Legume Products,16016
+310,"Beans, cranberry (roman), mature seeds, raw",Legumes and Legume Products,16019
+311,"Beans, fava, in pod, raw",Vegetables and Vegetable Products,11973
+312,"Beans, french, mature seeds, raw",Legumes and Legume Products,16022
+313,"Beans, great northern, mature seeds, raw",Legumes and Legume Products,16024
+314,"Beans, kidney, all types, mature seeds, canned",Legumes and Legume Products,16029
+315,"Beans, kidney, all types, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,16028
+316,"Beans, kidney, all types, mature seeds, cooked, boiled, with salt",Legumes and Legume Products,16328
+317,"Beans, kidney, all types, mature seeds, raw",Legumes and Legume Products,16027
+318,"Beans, kidney, california red, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,16031
+319,"Beans, kidney, california red, mature seeds, cooked, boiled, with salt",Legumes and Legume Products,16331
+320,"Beans, kidney, california red, mature seeds, raw",Legumes and Legume Products,16030
+321,"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11030
+322,"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11713
+323,"Beans, kidney, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11029
+324,"Beans, kidney, red, mature seeds, canned, drained solids",Legumes and Legume Products,16145
+325,"Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water",Legumes and Legume Products,16335
+326,"Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",Legumes and Legume Products,16337
+327,"Beans, kidney, red, mature seeds, canned, solids and liquids",Legumes and Legume Products,16034
+328,"Beans, kidney, red, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,16033
+329,"Beans, kidney, red, mature seeds, cooked, boiled, with salt",Legumes and Legume Products,16333
+330,"Beans, kidney, red, mature seeds, raw",Legumes and Legume Products,16032
+331,"Beans, kidney, royal red, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,16036
+332,"Beans, kidney, royal red, mature seeds, cooked, boiled with salt",Legumes and Legume Products,16336
+333,"Beans, kidney, royal red, mature seeds, raw",Legumes and Legume Products,16035
+334,"Beans, liquid from stewed kidney beans",Legumes and Legume Products,43125
+335,"Beans, navy, mature seeds, raw",Legumes and Legume Products,16037
+336,"Beans, navy, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11046
+337,"Beans, pink, mature seeds, raw",Legumes and Legume Products,16040
+338,"Beans, pinto, mature seeds, raw",Legumes and Legume Products,16042
+339,"Beans, pinto, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11653
+340,"Beans, small white, mature seeds, raw",Legumes and Legume Products,16045
+342,"Beans, snap, yellow, raw",Vegetables and Vegetable Products,11722
+343,"Beans, white, mature seeds, raw",Legumes and Legume Products,16049
+344,"Beans, yellow, mature seeds, raw",Legumes and Legume Products,16047
+345,"Broadbeans (fava beans), mature seeds, raw",Legumes and Legume Products,16052
+347,"Hyacinth-beans, immature seeds, raw",Vegetables and Vegetable Products,11224
+348,"Hyacinth beans, mature seeds, raw",Legumes and Legume Products,16067
+349,"Lima beans, immature seeds, raw",Vegetables and Vegetable Products,11031
+350,"Lima beans, large, mature seeds, raw",Legumes and Legume Products,16071
+351,"Lima beans, thin seeded (baby), mature seeds, raw",Legumes and Legume Products,16074
+352,"Mothbeans, mature seeds, raw",Legumes and Legume Products,16078
+355,"Mungo beans, mature seeds, raw",Legumes and Legume Products,16083
+356,"Winged bean leaves, raw",Vegetables and Vegetable Products,11597
+357,"Winged beans, immature seeds, raw",Vegetables and Vegetable Products,11595
+358,"Winged beans, mature seeds, raw",Legumes and Legume Products,16135
+359,"Winged bean tuber, raw",Vegetables and Vegetable Products,11599
+360,"Yardlong bean, raw",Vegetables and Vegetable Products,11199
+361,"Yardlong beans, mature seeds, raw",Legumes and Legume Products,16133
+362,"Beverages, ABBOTT, EAS whey protein powder",Beverages,14033
+363,"Beverages, Protein powder whey based",Beverages,14066
+364,"Beverages, UNILEVER, SLIMFAST Shake Mix, high protein, whey powder, 3-2-1 Plan,",Beverages,14055
+365,"Beverages, Whey protein powder isolate",Beverages,14058
+366,"Cheese, cottage, creamed, large or small curd",Dairy and Egg Products,01012
+367,"Cheese, cottage, creamed, with fruit",Dairy and Egg Products,01013
+368,"Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,01015
+369,"Cheese, cottage, lowfat, 1% milkfat",Dairy and Egg Products,01016
+370,"Cheese, cottage, lowfat, 1% milkfat, lactose reduced",Dairy and Egg Products,42235
+371,"Cheese, cottage, lowfat, 1% milkfat, no sodium added",Dairy and Egg Products,43352
+372,"Cheese, cottage, lowfat, 1% milkfat, with vegetables",Dairy and Egg Products,43396
+373,"Cheese, cottage, nonfat, uncreamed, dry, large or small curd",Dairy and Egg Products,01014
+374,"Cheese, cottage, with vegetables",Dairy and Egg Products,43273
+375,"Bananas, dehydrated, or banana powder",Fruits and Fruit Juices,09041
+376,"Bananas, raw",Fruits and Fruit Juices,09040
+377,"Beverages, V8 SPLASH Juice Drinks, Strawberry Banana",Beverages,14617
+378,"Beverages, V8 SPLASH Smoothies, Strawberry Banana",Beverages,14087
+379,"Beverages, V8 V-FUSION Juices, Strawberry Banana",Beverages,14621
+380,"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana",Fruits and Fruit Juices,09516
+381,"Fruit juice smoothie, NAKED JUICE, strawberry banana",Fruits and Fruit Juices,09531
+382,"Fruit juice smoothie, ODWALLA, strawberry banana",Fruits and Fruit Juices,09530
+383,"Fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids",Fruits and Fruit Juices,09325
+385,SILK Banana-Strawberry soy yogurt,Legumes and Legume Products,16259
+386,"Blueberries, canned, heavy syrup, solids and liquids",Fruits and Fruit Juices,09052
+387,"Blueberries, canned, light syrup, drained",Fruits and Fruit Juices,09352
+388,"Blueberries, dried, sweetened",Fruits and Fruit Juices,09163
+389,"Blueberries, frozen, sweetened",Fruits and Fruit Juices,09055
+390,"Blueberries, frozen, unsweetened",Fruits and Fruit Juices,09054
+391,"Blueberries, raw",Fruits and Fruit Juices,09050
+392,"Blueberries, wild, canned, heavy syrup, drained",Fruits and Fruit Juices,09353
+393,"Blueberries, wild, frozen",Fruits and Fruit Juices,09053
+394,SILK Blueberry soy yogurt,Legumes and Legume Products,16257
+413,"Beans, snap, green, canned, no salt added, drained solids",Vegetables and Vegetable Products,11729
+414,"Beans, snap, green, canned, no salt added, solids and liquids",Vegetables and Vegetable Products,11726
+415,"Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,11056
+416,"Beans, snap, green, canned, regular pack, solids and liquids",Vegetables and Vegetable Products,11054
+417,"Beans, snap, green, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11053
+418,"Beans, snap, green, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11723
+419,"Beans, snap, green, frozen, all styles, microwaved",Vegetables and Vegetable Products,11062
+420,"Beans, snap, green, frozen, all styles, unprepared",Vegetables and Vegetable Products,11060
+421,"Beans, snap, green, frozen, cooked, boiled, drained without salt",Vegetables and Vegetable Products,11061
+422,"Beans, snap, green, frozen, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11731
+423,"Beans, snap, green, microwaved",Vegetables and Vegetable Products,11063
+442,"MORNINGSTAR FARMS Tuscan Greens & Beans, frozen, unprepared",Legumes and Legume Products,16619
+463,"Alfalfa seeds, sprouted, raw",Vegetables and Vegetable Products,11001
+467,"Brussels sprouts, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11099
+468,"Brussels sprouts, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11745
+469,"Brussels sprouts, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,11101
+470,"Brussels sprouts, frozen, cooked, boiled, drained, with salt",Vegetables and Vegetable Products,11746
+471,"Brussels sprouts, frozen, unprepared",Vegetables and Vegetable Products,11100
+472,"Brussels sprouts, raw",Vegetables and Vegetable Products,11098
+473,"Lentils, sprouted, raw",Vegetables and Vegetable Products,11248
+476,"Radish seeds, sprouted, raw",Vegetables and Vegetable Products,11676
+477,"Soybeans, mature seeds, sprouted, raw",Vegetables and Vegetable Products,11452
+478,"Rice, brown, long-grain, raw",Cereal Grains and Pasta,20036
+479,"Rice, brown, medium-grain, raw",Cereal Grains and Pasta,20040
+480,"Rice, white, long-grain, regular, raw, enriched",Cereal Grains and Pasta,20044
+481,"Rice, white, long-grain, regular, raw, unenriched",Cereal Grains and Pasta,20444
+482,"Rice, white, medium-grain, raw, enriched",Cereal Grains and Pasta,20050
+483,"Rice, white, medium-grain, raw, unenriched",Cereal Grains and Pasta,20450
+484,"Rice, white, short-grain, raw, unenriched",Cereal Grains and Pasta,20452
+485,"Wild rice, raw",Cereal Grains and Pasta,20088
+486,"Cornmeal, white, self-rising, bolted, with wheat flour added, enriched",Cereal Grains and Pasta,20324
+487,"Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched",Cereal Grains and Pasta,20024
+488,"Wheat flours, bread, unenriched",Cereal Grains and Pasta,20129
+489,"Wheat flour, white, all-purpose, enriched, bleached",Cereal Grains and Pasta,20081
+490,"Wheat flour, white, all-purpose, enriched, calcium-fortified",Cereal Grains and Pasta,20381
+491,"Wheat flour, white, all-purpose, enriched, unbleached",Cereal Grains and Pasta,20581
+492,"Wheat flour, white, all-purpose, self-rising, enriched",Cereal Grains and Pasta,20082
+493,"Wheat flour, white, all-purpose, unenriched",Cereal Grains and Pasta,20481
+494,"Wheat flour, white, bread, enriched",Cereal Grains and Pasta,20083
+495,"Wheat flour, white, cake, enriched",Cereal Grains and Pasta,20084
+496,"Wheat flour, white (industrial), 9% protein, bleached, enriched",Cereal Grains and Pasta,20623
+497,"Wheat flour, white (industrial), 10% protein, bleached, enriched",Cereal Grains and Pasta,20628
+498,"Wheat flour, white (industrial), 11.5% protein, bleached, enriched",Cereal Grains and Pasta,20634
+499,"Wheat flour, white (industrial), 13% protein, bleached, enriched",Cereal Grains and Pasta,20640
+500,"Wheat flour, white (industrial), 15% protein, bleached, enriched",Cereal Grains and Pasta,20645
+501,"Wheat flour, white (industrial), 9% protein, bleached, unenriched",Cereal Grains and Pasta,20624
+502,"Wheat flour, white (industrial), 10% protein, bleached, unenriched",Cereal Grains and Pasta,20629
+503,"Wheat flour, white (industrial), 11.5% protein, bleached, unenriched",Cereal Grains and Pasta,20635
+504,"Wheat flour, white (industrial), 13% protein, bleached, unenriched",Cereal Grains and Pasta,20641
+505,"Wheat flour, white (industrial), 15% protein, bleached, unenriched",Cereal Grains and Pasta,20646
+506,"Wheat flour, white (industrial), 10% protein, unbleached, enriched",Cereal Grains and Pasta,20630
+507,"Wheat flour, white (industrial), 11.5% protein, unbleached, enriched",Cereal Grains and Pasta,20636
+508,"Wheat flour, white, tortilla mix, enriched",Cereal Grains and Pasta,20086
+509,"Wheat flour, whole-grain",Cereal Grains and Pasta,20080
+510,"Wheat flour, whole-grain, soft wheat",Cereal Grains and Pasta,20649
